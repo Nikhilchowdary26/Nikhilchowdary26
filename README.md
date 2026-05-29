@@ -7,6 +7,10 @@
 
 I am a Software Engineer with **2+ years of experience** building robust applications using Java and Spring Boot. Currently, I am channeling my passion for automation, scalability, and infrastructure to transition into a **Full-Time DevOps & Cloud Engineer**. 
 
+<p align="center">
+  <img src="developer.gif" width="420" alt="DevOps Developer Life" />
+</p>
+
 I love breaking down complex architectures, automating tedious pipelines, and deploying containerized applications. I'm actively looking to collaborate on open-source DevOps and Cloud projects!
 
 ---
